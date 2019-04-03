@@ -24,6 +24,7 @@ public class UserController {
 
 	Logger logger = LogManager.getLogger(UserController.class);
 
+	
 	@Autowired
 	private UserService userService;
 
